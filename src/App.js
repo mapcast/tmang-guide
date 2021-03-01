@@ -5,19 +5,19 @@ import { MainPage, Roadmap1, Roadmap2, Roadmap4, Roadmap5, Roadmap6, Roadmap3, R
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Switch>
-          <Route exact path ="/tmang-guide" component={MainPage}/>
-          <Route exact path ="/tmang-guide/roadmap/1" component={Roadmap1}/>
-          <Route exact path ="/tmang-guide/roadmap/2" component={Roadmap2}/>
-          <Route exact path ="/tmang-guide/roadmap/3" component={Roadmap3}/>
-          <Route exact path ="/tmang-guide/roadmap/4" component={Roadmap4}/>
-          <Route exact path ="/tmang-guide/roadmap/5" component={Roadmap5}/>
-          <Route exact path ="/tmang-guide/roadmap/6" component={Roadmap6}/>
-          <Route exact path ="/tmang-guide/roadmap/7" component={Roadmap7}/>
-          <Route exact path ="/tmang-guide/roadmap/8" component={Roadmap8}/>
-          <Route exact path ="/tmang-guide/roadmap/9" component={Roadmap9}/>
-          <Route exact path ="/tmang-guide/roadmap/10" component={Roadmap10}/>
+          <Route exact path ="/" component={MainPage}/>
+          <Route exact path ="/roadmap/1" component={Roadmap1}/>
+          <Route exact path ="/roadmap/2" component={Roadmap2}/>
+          <Route exact path ="/roadmap/3" component={Roadmap3}/>
+          <Route exact path ="/roadmap/4" component={Roadmap4}/>
+          <Route exact path ="/roadmap/5" component={Roadmap5}/>
+          <Route exact path ="/roadmap/6" component={Roadmap6}/>
+          <Route exact path ="/roadmap/7" component={Roadmap7}/>
+          <Route exact path ="/roadmap/8" component={Roadmap8}/>
+          <Route exact path ="/roadmap/9" component={Roadmap9}/>
+          <Route exact path ="/roadmap/10" component={Roadmap10}/>
         </Switch>
     </BrowserRouter>
   );
