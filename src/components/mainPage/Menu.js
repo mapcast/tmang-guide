@@ -40,57 +40,57 @@ const Menu = () => {
                 <p className='guide-menu-element-title'>로드맵</p>
             </div>
             <div className={ (dispmenu1 ? '':'hide') }>
-                <a href="/">
+                <a href="/tmang-guide">
                     <div className={classNames('guide-menu-element-sub')}>
                         <p className='guide-menu-element-sub-title'>메인 로드맵</p>
                     </div>
                 </a>
-                <a href="/roadmap/1">
+                <a href="/tmang-guide/roadmap/1">
                     <div className={classNames('guide-menu-element-sub')}>
                         <p className='guide-menu-element-sub-title'>챌린지 3구역</p>
                     </div>
                 </a>
-                <a href="/roadmap/9">
+                <a href="/tmang-guide/roadmap/9">
                     <div className={classNames('guide-menu-element-sub')}>
                         <p className='guide-menu-element-sub-title'>장비 옵션</p>
                     </div>
                 </a>
-                <a href="/roadmap/10">
+                <a href="/tmang-guide/roadmap/10">
                     <div className={classNames('guide-menu-element-sub')}>
                         <p className='guide-menu-element-sub-title'>특성과 아츠</p>
                     </div>
                 </a>
-                <a href="/roadmap/2">
+                <a href="/tmang-guide/roadmap/2">
                     <div className={classNames('guide-menu-element-sub')}>
                         <p className='guide-menu-element-sub-title'>무기와 악세, 카드</p>
                     </div>
                 </a>
-                <a href="/roadmap/3">
+                <a href="/tmang-guide/roadmap/3">
                     <div className={classNames('guide-menu-element-sub')}>
                         <p className='guide-menu-element-sub-title'>여마신 아이커</p>
                     </div>
                 </a>
-                <a href="/roadmap/4">
+                <a href="/tmang-guide/roadmap/4">
                     <div className={classNames('guide-menu-element-sub')}>
                         <p className='guide-menu-element-sub-title'>레이드에 필요한 직업</p>
                     </div>
                 </a>
-                <a href="/roadmap/5">
+                <a href="/tmang-guide/roadmap/5">
                     <div className={classNames('guide-menu-element-sub')}>
                         <p className='guide-menu-element-sub-title'>레겐다 방어구</p>
                     </div>
                 </a>
-                <a href="/roadmap/6">
+                <a href="/tmang-guide/roadmap/6">
                     <div className={classNames('guide-menu-element-sub')}>
                         <p className='guide-menu-element-sub-title'>아크</p>
                     </div>
                 </a>
-                <a href="/roadmap/7">
+                <a href="/tmang-guide/roadmap/7">
                     <div className={classNames('guide-menu-element-sub')}>
                         <p className='guide-menu-element-sub-title'>4렙바보, 루시페리</p>
                     </div>
                 </a>
-                <a href="/roadmap/8">
+                <a href="/tmang-guide/roadmap/8">
                     <div className={classNames('guide-menu-element-sub')}>
                         <p className='guide-menu-element-sub-title'>최종 스펙업</p>
                     </div>
