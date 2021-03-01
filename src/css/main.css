@@ -1,0 +1,182 @@
+@font-face{
+    font-family: "Black Han Sans";
+    src: local("Black Han Sans"), url(../fonts/BlackHanSans-Regular.ttf) format('truetype');
+}
+@font-face{
+    font-family: "Jua";
+    src: local("Jua"), url(../fonts/Jua-Regular.ttf) format('truetype');
+}
+@font-face{
+    font-family: "Do Hyeon";
+    src:local("Do Hyeon"), url(../fonts/DoHyeon-Regular.ttf) format('truetype');
+}
+@font-face{
+    font-family: "Gugi";
+    src:local("Gugi"), url(../fonts/Gugi-Regular.ttf) format('truetype');
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+.guide-container{
+    padding: 2% 4% 7%;
+    height:100vh;
+    width:100vw;
+    background-color:#404040;
+}
+
+.guide-frame{
+    border-top: 1px solid #454545;
+    border-bottom: 3px solid #121212;
+    border-right: 3px solid #303030;
+    border-left: 2px solid #383838;
+    height:100%;
+    width:100%;
+    display:flex;
+}
+
+.guide-title{
+    font-family: "Black Han Sans", sans-serif;
+    color:#CCCCCC;
+}
+
+.guide-menu{
+    width:280px;
+    height:100%;
+    background-color:#272727;
+    z-index:2;
+    overflow: scroll;
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+}
+
+.guide-menu::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera*/
+}
+
+.guide-menu-element{
+    width:100%;
+    height:100px;
+    background-color:#252525;
+    border-bottom:6px solid #121212;
+    border-right:1px solid #121212;
+    border-left:5px solid #202020;
+    text-align:center;
+    padding:15% 0;
+    font-family: 'Do Hyeon', sans-serif;
+    font-size:24px;
+    z-index:3;
+}
+
+.guide-menu-element-sub{
+    text-align:center;
+    height:25px;
+    border-bottom:1px solid #363636;
+}
+
+.guide-menu-element-title{
+    color:white;
+}
+
+.guide-menu-element:hover{
+    border:none;
+    border-bottom:1px solid #363636;
+    background-color:#121212;
+}
+
+.guide-menu-element-sub:hover{
+    background-color: #121212;
+}
+
+.hide {
+    display:none;
+}
+
+.guide-content{
+    background-color:#232323;
+    width:100%;
+    height:100%;
+    display:flex;
+}
+
+.guide-content-max{
+    width:100%;
+    height:100%;
+    padding: 2% 0;
+    overflow-x:hidden;
+    overflow-y:auto;
+    text-align: center;
+}
+
+.guide-content-max>h1{
+    color:#DDDDDD;
+    font-family: 'Black Han Sans';
+}
+
+.guide-content-max>p{
+    color:darkgray;
+    font-family: 'Jua', sans-serif;
+    font-size:20px;
+}
+
+/* SCROLL */
+.guide-content-max::-webkit-scrollbar { width: 20px; }
+/* 스크롤바의 width */
+.guide-content-max::-webkit-scrollbar-track { background-color: #232323; }
+/* 스크롤바의 전체 배경색 */
+.guide-content-max::-webkit-scrollbar-thumb { 
+    background: linear-gradient(to bottom, #1697bf, #62b7ac); 
+}
+/* 스크롤바 색 */
+.guide-content-max::-webkit-scrollbar-button { display: none; }
+/* 위 아래 버튼 (버튼 없애기를 함) */
+
+.guide-content-left{
+    color:white;
+    width:500px;
+    height:100%;
+    padding:20% 0 20% 10%;
+}
+
+.guide-bigdesc{
+    font-family: "Gugi", sans-serif;
+    font-size:36px;
+}
+
+.guide-desc{
+    color:darkgray;
+    font-family: "Jua", sans-serif;
+    padding-left:10px;
+}
+
+.orange{
+    color:#EF8D32;
+}
+
+
+.nodes {
+    fill: #232323;
+}
+.nodes text {
+    fill: white;
+}
+ 
+path {
+    stroke: #eeeeee;
+    fill: white;
+    stroke-width: 1.5px;
+}
+
+text{
+    fill:darkgray;
+}
+
+a{
+    color:white;
+}
+a:hover{
+    color:white;
+    text-decoration: none;
+}
