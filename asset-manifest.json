@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/tmang-guide/static/css/main.c192da20.chunk.css",
+    "main.js": "/tmang-guide/static/js/main.2f586168.chunk.js",
+    "main.js.map": "/tmang-guide/static/js/main.2f586168.chunk.js.map",
+    "runtime-main.js": "/tmang-guide/static/js/runtime-main.acb928d0.js",
+    "runtime-main.js.map": "/tmang-guide/static/js/runtime-main.acb928d0.js.map",
+    "static/js/2.d8cfaeab.chunk.js": "/tmang-guide/static/js/2.d8cfaeab.chunk.js",
+    "static/js/2.d8cfaeab.chunk.js.map": "/tmang-guide/static/js/2.d8cfaeab.chunk.js.map",
+    "static/js/3.b5c8a057.chunk.js": "/tmang-guide/static/js/3.b5c8a057.chunk.js",
+    "static/js/3.b5c8a057.chunk.js.map": "/tmang-guide/static/js/3.b5c8a057.chunk.js.map",
+    "index.html": "/tmang-guide/index.html",
+    "static/css/main.c192da20.chunk.css.map": "/tmang-guide/static/css/main.c192da20.chunk.css.map",
+    "static/js/2.d8cfaeab.chunk.js.LICENSE.txt": "/tmang-guide/static/js/2.d8cfaeab.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/tmang-guide/static/media/Jua-Regular.3d6db847.ttf",
+    "static/media/roadmap1-1.f2d064e4.jpg": "/tmang-guide/static/media/roadmap1-1.f2d064e4.jpg",
+    "static/media/roadmap1-2.a1665eca.jpg": "/tmang-guide/static/media/roadmap1-2.a1665eca.jpg",
+    "static/media/roadmap1-3.3661d8a1.jpg": "/tmang-guide/static/media/roadmap1-3.3661d8a1.jpg",
+    "static/media/roadmap1-4.ea0ac06b.jpg": "/tmang-guide/static/media/roadmap1-4.ea0ac06b.jpg",
+    "static/media/roadmap1-5.d2ca3c56.jpg": "/tmang-guide/static/media/roadmap1-5.d2ca3c56.jpg",
+    "static/media/roadmap2-1.e096bd5e.png": "/tmang-guide/static/media/roadmap2-1.e096bd5e.png",
+    "static/media/roadmap2-2.359f2a89.jpg": "/tmang-guide/static/media/roadmap2-2.359f2a89.jpg",
+    "static/media/roadmap2-3.6bb126b8.jpg": "/tmang-guide/static/media/roadmap2-3.6bb126b8.jpg",
+    "static/media/roadmap2-4.482d7b42.jpg": "/tmang-guide/static/media/roadmap2-4.482d7b42.jpg",
+    "static/media/roadmap9-1.07c7b187.jpg": "/tmang-guide/static/media/roadmap9-1.07c7b187.jpg",
+    "static/media/roadmap9-2.2ceb8beb.jpg": "/tmang-guide/static/media/roadmap9-2.2ceb8beb.jpg",
+    "static/media/roadmap9-3.8485adac.jpg": "/tmang-guide/static/media/roadmap9-3.8485adac.jpg",
+    "static/media/roadmap9-4.6365a4bc.jpg": "/tmang-guide/static/media/roadmap9-4.6365a4bc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acb928d0.js",
+    "static/js/2.d8cfaeab.chunk.js",
+    "static/css/main.c192da20.chunk.css",
+    "static/js/main.2f586168.chunk.js"
+  ]
+}
