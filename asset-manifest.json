@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tmang-guide/static/css/main.c192da20.chunk.css",
-    "main.js": "/tmang-guide/static/js/main.ad4c02db.chunk.js",
-    "main.js.map": "/tmang-guide/static/js/main.ad4c02db.chunk.js.map",
+    "main.js": "/tmang-guide/static/js/main.dadc071a.chunk.js",
+    "main.js.map": "/tmang-guide/static/js/main.dadc071a.chunk.js.map",
     "runtime-main.js": "/tmang-guide/static/js/runtime-main.acb928d0.js",
     "runtime-main.js.map": "/tmang-guide/static/js/runtime-main.acb928d0.js.map",
     "static/js/2.d8cfaeab.chunk.js": "/tmang-guide/static/js/2.d8cfaeab.chunk.js",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.acb928d0.js",
     "static/js/2.d8cfaeab.chunk.js",
     "static/css/main.c192da20.chunk.css",
-    "static/js/main.ad4c02db.chunk.js"
+    "static/js/main.dadc071a.chunk.js"
   ]
 }
