@@ -5,7 +5,7 @@ import { MainPage, Roadmap1, Roadmap2, Roadmap4, Roadmap5, Roadmap6, Roadmap3, R
 
 function App() {
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <BrowserRouter basename={process.env.PUBLIC_URL+'/'}>
         <Switch>
           <Route exact path ="/" component={MainPage}/>
           <Route exact path ="/roadmap/1" component={Roadmap1}/>
