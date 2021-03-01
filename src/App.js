@@ -8,7 +8,7 @@ function App() {
     <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Switch>
           <Route exact path ="/" component={MainPage}/>
-          <Route exact path ="/tmang-guide/roadmap/1" component={Roadmap1}/>
+          <Route exact path ="/tmang-guide/roadmap1" component={Roadmap1}/>
           <Route exact path ="/tmang-guide/roadmap/2" component={Roadmap2}/>
           <Route exact path ="/tmang-guide/roadmap/3" component={Roadmap3}/>
           <Route exact path ="/tmang-guide/roadmap/4" component={Roadmap4}/>
