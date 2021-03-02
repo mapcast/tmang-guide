@@ -13,55 +13,55 @@ const MainPage = () => {
         },
         {
             id: 2,
-            label: '<a href=\'/tmang-guide/roadmap/1\'>챌린지 3구역 스펙을 맞추자</a>',
+            label: '<a href=\'/tmang-guide/roadmap1\'>챌린지 3구역 스펙을 맞추자</a>',
             class: 'nodes',
             labelType: 'html'
         },
         {
             id: 3,
-            label: '<a href=\'/tmang-guide/roadmap/2\'>무기와 악세사리, 카드를 맞추자</a>',
+            label: '<a href=\'/tmang-guide/roadmap2\'>무기와 악세사리, 카드를 맞추자</a>',
             class: 'nodes',
             labelType: 'html'
         },
         {
             id: 4,
-            label: '<a href=\'/tmang-guide/roadmap/3\'>여신, 마신 아이커를 맞추자</a>',
+            label: '<a href=\'/tmang-guide/roadmap3\'>여신, 마신 아이커를 맞추자</a>',
             class: 'nodes',
             labelType: 'html'
         },
         {
             id: 5,
-            label: '<a href=\'/tmang-guide/roadmap/4\'>파티에 필요한 직업을 알아보자</a>',
+            label: '<a href=\'/tmang-guide/roadmap4\'>파티에 필요한 직업을 알아보자</a>',
             class: 'nodes',
             labelType: 'html'
         },
         {
             id: 6,
-            label: '<a href=\'/tmang-guide/roadmap/6\'>제작아크</a>',
+            label: '<a href=\'/tmang-guide/roadmap6\'>제작아크</a>',
             class: 'nodes',
             labelType: 'html'
         },
         {
             id: 7,
-            label: '<a href=\'/tmang-guide/roadmap/7\'>4렙바보와 루시페리</a>',
+            label: '<a href=\'/tmang-guide/roadmap7\'>4렙바보와 루시페리</a>',
             class: 'nodes',
             labelType: 'html'
         },
         {
             id: 8,
-            label: '<a href=\'/tmang-guide/roadmap/8\'>엔드스펙 그 이상</a>',
+            label: '<a href=\'/tmang-guide/roadmap8\'>엔드스펙 그 이상</a>',
             class: 'nodes',
             labelType: 'html'
         },
         {
             id:9,
-            label: '<a href=\'/tmang-guide/roadmap/5\'>레겐다 장비를 맞추자</a>',
+            label: '<a href=\'/tmang-guide/roadmap5\'>레겐다 장비를 맞추자</a>',
             class: 'nodes',
             labelType: 'html'
         },
         {
             id:10,
-            label: '<a href=\'/tmang-guide/roadmap/9\'>장비 옵션을 맞추자</a>',
+            label: '<a href=\'/tmang-guide/roadmap9\'>장비 옵션을 맞추자</a>',
             class: 'nodes',
             labelType: 'html'
         }
