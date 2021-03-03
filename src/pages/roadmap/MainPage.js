@@ -37,27 +37,27 @@ const MainPage = () => {
         },
         {
             id: 6,
-            label: '<a href=\'/tmang-guide/roadmap6\'>제작아크</a>',
+            label: '<a href=\'/tmang-guide/roadmap5\'>제작아크</a>',
             class: 'nodes',
             labelType: 'html'
         },
         {
             id: 7,
-            label: '<a href=\'/tmang-guide/roadmap7\'>4렙바보와 루시페리</a>',
+            label: '<a href=\'/tmang-guide/roadmap5\'>4렙바보와 루시페리</a>',
             class: 'nodes',
             labelType: 'html'
         },
         {
             id: 8,
-            label: '<a href=\'/tmang-guide/roadmap8\'>엔드스펙 그 이상</a>',
+            label: '<a href=\'/tmang-guide/roadmap6\'>엔드스펙 그 이상</a>',
             class: 'nodes',
             labelType: 'html'
         },
         {
             id:9,
-            label: '<a href=\'/tmang-guide/roadmap5\'>레겐다 장비를 맞추자</a>',
+            label: '레겐다 방어구를 맞추자',
             class: 'nodes',
-            labelType: 'html'
+            labelType: 'text'
         },
         {
             id:10,

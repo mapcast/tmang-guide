@@ -77,22 +77,12 @@ const Menu = () => {
                 </a>
                 <a href="/tmang-guide/roadmap5">
                     <div className={classNames('guide-menu-element-sub')}>
-                        <p className='guide-menu-element-sub-title'>레겐다 방어구</p>
+                        <p className='guide-menu-element-sub-title'>아크와 4렙바보, 루시페리 등</p>
                     </div>
                 </a>
                 <a href="/tmang-guide/roadmap6">
                     <div className={classNames('guide-menu-element-sub')}>
-                        <p className='guide-menu-element-sub-title'>아크</p>
-                    </div>
-                </a>
-                <a href="/tmang-guide/roadmap7">
-                    <div className={classNames('guide-menu-element-sub')}>
-                        <p className='guide-menu-element-sub-title'>4렙바보, 루시페리</p>
-                    </div>
-                </a>
-                <a href="/tmang-guide/roadmap8">
-                    <div className={classNames('guide-menu-element-sub')}>
-                        <p className='guide-menu-element-sub-title'>최종 스펙업</p>
+                        <p className='guide-menu-element-sub-title'>최종 스펙 업</p>
                     </div>
                 </a>
             </div>
