@@ -13,8 +13,7 @@ const roadmapPage2 = () => {
                 <Menu/>
                 <div className={classNames('guide-content')}>
                     <div className='guide-content-max'>
-                        <h1>무기와 악세, 카드를 맞춰보자</h1>
-                        <p>&nbsp;</p>
+                        <h1 className='orange'>무기와 악세, 카드를 맞춰보자</h1>
                         <img src={image1}/>
                         <p></p>
                         <p>일단 우선도가 가장 높은것은 악세사리를 상위단계로 올리는 겁니다. 시세는 변동이 있기에 적기 힘들지만, 무기보다는 훨씬 저렴해요.</p>

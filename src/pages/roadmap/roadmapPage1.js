@@ -14,8 +14,8 @@ const roadmapPage1 = () => {
                 <Menu/>
                 <div className={classNames('guide-content')}>
                    <div className='guide-content-max'>
-                       <h1>챌린지 3구역으로</h1>
-                       <p>&nbsp;</p>
+                       <h1 className='orange'>챌린지 3구역으로</h1>
+                       <p></p>
                        <p>에피소드를 막 깬 뉴비들에게는 챌린지 2구역이라는 시련이 닥칩니다.</p>
                        <p>아직 3챌에 갈 조건이 갖춰지지 않은 뉴비들에게는 유일한 파밍장소인데, 사람도 없고 모이더라도 스펙 부족으로 클리어가 하루종일 걸리죠.</p>
                        <img src={image1}/>

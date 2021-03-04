@@ -111,12 +111,11 @@ body{
 }
 
 .guide-content-max>h1{
-    color:#DDDDDD;
     font-family: 'Black Han Sans';
 }
 
 .guide-content-max>p{
-    color:darkgray;
+    color:#DDD;
     font-family: 'Jua', sans-serif;
     font-size:20px;
 }
@@ -151,6 +150,11 @@ body{
     padding-left:10px;
 }
 
+.guide-highlight{
+    font-size:30px;
+    font-family: 'Jua';
+}
+
 .orange{
     color:#EF8D32;
 }
@@ -174,9 +178,14 @@ text{
 }
 
 a{
+    font-weight:800;
     color:white;
 }
 a:hover{
-    color:white;
+    color:steelblue;
     text-decoration: none;
+}
+
+.mt50{
+    margin-top: 50px;
 }

@@ -14,8 +14,8 @@ const roadmapPage9 = () => {
                 <Menu/>
                 <div className={classNames('guide-content')}>
                     <div className='guide-content-max'>
-                        <h1>장비 옵션에 대해</h1>
-                        <p>&nbsp;</p>
+                        <h1 className='orange'>장비 옵션에 대해</h1>
+                        <p></p>
                         <img src={image1}/>
                         <p></p>
                         <p>이 게임의 무기와 방어구에는 옵션을 달아줘야 제대로된 장비가 됩니다.</p>
