@@ -50,12 +50,12 @@ const Menu = () => {
                         <p className='guide-menu-element-sub-title'>챌린지 3구역</p>
                     </div>
                 </a>
-                <a href="/tmang-guide/roadmap9">
+                <a href="/tmang-guide/roadmap7">
                     <div className={classNames('guide-menu-element-sub')}>
                         <p className='guide-menu-element-sub-title'>장비 옵션</p>
                     </div>
                 </a>
-                <a href="/tmang-guide/roadmap10">
+                <a href="/tmang-guide/roadmap6">
                     <div className={classNames('guide-menu-element-sub')}>
                         <p className='guide-menu-element-sub-title'>특성과 아츠</p>
                     </div>
@@ -80,42 +80,37 @@ const Menu = () => {
                         <p className='guide-menu-element-sub-title'>아크와 4렙바보, 루시페리 등</p>
                     </div>
                 </a>
-                <a href="/tmang-guide/roadmap6">
-                    <div className={classNames('guide-menu-element-sub')}>
-                        <p className='guide-menu-element-sub-title'>최종 스펙 업</p>
-                    </div>
-                </a>
             </div>
             <div onClick={displayClassMenu} className={classNames('guide-menu-element')}>
                 <p className='guide-menu-element-title'>직업 가이드</p>
             </div>
             <div className={ (dispmenu2 ? '':'hide') }>
-                <a href="#">
+                <a href="/tmang-guide/class1">
                     <div className={classNames('guide-menu-element-sub')}>
                         <p className='guide-menu-element-sub-title'>소드맨</p>
                     </div>
                 </a>
-                <a href="#">
+                <a href="/tmang-guide/class2">
                     <div className={classNames('guide-menu-element-sub')}>
                         <p className='guide-menu-element-sub-title'>위자드</p>
                     </div>
                 </a>
-                <a href="#">
+                <a href="/tmang-guide/class3">
                     <div className={classNames('guide-menu-element-sub')}>
                         <p className='guide-menu-element-sub-title'>아쳐</p>
                     </div>
                 </a>
-                <a href="#">
+                <a href="/tmang-guide/class4">
                     <div className={classNames('guide-menu-element-sub')}>
                         <p className='guide-menu-element-sub-title'>클레릭</p>
                     </div>
                 </a>
-                <a href="#">
+                <a href="/tmang-guide/class5">
                     <div className={classNames('guide-menu-element-sub')}>
                         <p className='guide-menu-element-sub-title'>스카우트</p>
                     </div>
                 </a>
-                <a href="#">
+                <a href="/tmang-guide/class6">
                     <div className={classNames('guide-menu-element-sub')}>
                         <p className='guide-menu-element-sub-title'>부캐로 추천하는 직업</p>
                     </div>

@@ -49,9 +49,9 @@ const MainPage = () => {
         },
         {
             id: 8,
-            label: '<a href=\'/tmang-guide/roadmap6\'>엔드스펙 그 이상</a>',
+            label: '엔드스펙 그 이상',
             class: 'nodes',
-            labelType: 'html'
+            labelType: 'text'
         },
         {
             id:9,
@@ -61,7 +61,7 @@ const MainPage = () => {
         },
         {
             id:10,
-            label: '<a href=\'/tmang-guide/roadmap9\'>장비 옵션을 맞추자</a>',
+            label: '<a href=\'/tmang-guide/roadmap7\'>장비 옵션을 맞추자</a>',
             class: 'nodes',
             labelType: 'html'
         }

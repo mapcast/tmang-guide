@@ -6,6 +6,3 @@ export { default as Roadmap4 } from './roadmapPage4';
 export { default as Roadmap5 } from './roadmapPage5';
 export { default as Roadmap6 } from './roadmapPage6';
 export { default as Roadmap7 } from './roadmapPage7';
-export { default as Roadmap8 } from './roadmapPage8';
-export { default as Roadmap9 } from './roadmapPage9';
-export { default as Roadmap10 } from './roadmapPage10';
