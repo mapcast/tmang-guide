@@ -155,10 +155,58 @@ body{
     font-family: 'Jua';
 }
 
+.guide-class{
+    border-bottom:1px solid darkgray;
+    width:100%;
+    height:auto;
+    padding:50px 0;
+}
+
+.guide-class-flex{
+    width:100%;
+    height:auto;
+    display:flex;
+    padding: 0 15%;
+}
+
+.guide-class-title{
+    width:30%;
+    height:300px;
+}
+
+.guide-class-title>h1{
+    color:#EF8D32;
+    font-family:'Do Hyeon';
+    font-size:60px;
+}
+
+.guide-class-graph{
+    width:70%;
+    border:1px solid darkgray;
+}
+
+.guide-class-desc{
+    margin-top:50px;
+    padding: 0 15%;
+}
+.guide-class-desc>p{
+    color:#DDD;
+    font-family: 'Jua', sans-serif;
+    font-size:20px;
+    text-align: left;
+}
+
+.guide-class-desc>h1{
+    font-family: 'Do Hyeon';
+}
+
 .orange{
     color:#EF8D32;
 }
 
+.deepblue{
+    color:#1697bf;
+}
 
 .nodes {
     fill: #232323;
