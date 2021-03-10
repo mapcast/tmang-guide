@@ -196,6 +196,19 @@ body{
     text-align: left;
 }
 
+.guide-class-desc>span{
+    font-family: 'Jua', sans-serif;
+    font-size: 20px;
+}
+
+.red{
+    color:#FF4646;
+}
+
+.whitegray{
+    color:#DDD;
+}
+
 .guide-class-desc>h1{
     font-family: 'Do Hyeon';
 }
