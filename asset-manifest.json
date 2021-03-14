@@ -1,18 +1,26 @@
 {
   "files": {
     "main.css": "/tmang-guide/static/css/main.ddf14eb8.chunk.css",
-    "main.js": "/tmang-guide/static/js/main.c9b1c3c8.chunk.js",
-    "main.js.map": "/tmang-guide/static/js/main.c9b1c3c8.chunk.js.map",
+    "main.js": "/tmang-guide/static/js/main.52e610f4.chunk.js",
+    "main.js.map": "/tmang-guide/static/js/main.52e610f4.chunk.js.map",
     "runtime-main.js": "/tmang-guide/static/js/runtime-main.9b0fc025.js",
     "runtime-main.js.map": "/tmang-guide/static/js/runtime-main.9b0fc025.js.map",
-    "static/js/2.322bb991.chunk.js": "/tmang-guide/static/js/2.322bb991.chunk.js",
-    "static/js/2.322bb991.chunk.js.map": "/tmang-guide/static/js/2.322bb991.chunk.js.map",
+    "static/js/2.2a05d1b4.chunk.js": "/tmang-guide/static/js/2.2a05d1b4.chunk.js",
+    "static/js/2.2a05d1b4.chunk.js.map": "/tmang-guide/static/js/2.2a05d1b4.chunk.js.map",
     "static/js/3.3d17f2df.chunk.js": "/tmang-guide/static/js/3.3d17f2df.chunk.js",
     "static/js/3.3d17f2df.chunk.js.map": "/tmang-guide/static/js/3.3d17f2df.chunk.js.map",
     "index.html": "/tmang-guide/index.html",
     "static/css/main.ddf14eb8.chunk.css.map": "/tmang-guide/static/css/main.ddf14eb8.chunk.css.map",
-    "static/js/2.322bb991.chunk.js.LICENSE.txt": "/tmang-guide/static/js/2.322bb991.chunk.js.LICENSE.txt",
+    "static/js/2.2a05d1b4.chunk.js.LICENSE.txt": "/tmang-guide/static/js/2.2a05d1b4.chunk.js.LICENSE.txt",
     "static/media/main.css": "/tmang-guide/static/media/Jua-Regular.3d6db847.ttf",
+    "static/media/archer-class-1.f8fbd78c.gif": "/tmang-guide/static/media/archer-class-1.f8fbd78c.gif",
+    "static/media/archer-class-2.8fba5589.gif": "/tmang-guide/static/media/archer-class-2.8fba5589.gif",
+    "static/media/archer-class-3.b19a02b7.gif": "/tmang-guide/static/media/archer-class-3.b19a02b7.gif",
+    "static/media/archer-class-4.1bbeecfa.gif": "/tmang-guide/static/media/archer-class-4.1bbeecfa.gif",
+    "static/media/archer-class-5.f81a3bdd.gif": "/tmang-guide/static/media/archer-class-5.f81a3bdd.gif",
+    "static/media/archer-class-6.daa84520.gif": "/tmang-guide/static/media/archer-class-6.daa84520.gif",
+    "static/media/archer-class-7.afaf3c71.gif": "/tmang-guide/static/media/archer-class-7.afaf3c71.gif",
+    "static/media/archer-class-8.1b758f11.gif": "/tmang-guide/static/media/archer-class-8.1b758f11.gif",
     "static/media/babarian.0f9de799.png": "/tmang-guide/static/media/babarian.0f9de799.png",
     "static/media/class-swordman1.41bc3802.gif": "/tmang-guide/static/media/class-swordman1.41bc3802.gif",
     "static/media/class-swordman2.eacf2d44.gif": "/tmang-guide/static/media/class-swordman2.eacf2d44.gif",
@@ -48,12 +56,18 @@
     "static/media/roadmap9-1.07c7b187.jpg": "/tmang-guide/static/media/roadmap9-1.07c7b187.jpg",
     "static/media/roadmap9-2.2ceb8beb.jpg": "/tmang-guide/static/media/roadmap9-2.2ceb8beb.jpg",
     "static/media/roadmap9-3.8485adac.jpg": "/tmang-guide/static/media/roadmap9-3.8485adac.jpg",
-    "static/media/roadmap9-4.6365a4bc.jpg": "/tmang-guide/static/media/roadmap9-4.6365a4bc.jpg"
+    "static/media/roadmap9-4.6365a4bc.jpg": "/tmang-guide/static/media/roadmap9-4.6365a4bc.jpg",
+    "static/media/wizard-class-1.86ac1740.gif": "/tmang-guide/static/media/wizard-class-1.86ac1740.gif",
+    "static/media/wizard-class-2.4fc347d6.gif": "/tmang-guide/static/media/wizard-class-2.4fc347d6.gif",
+    "static/media/wizard-class-3.bd349df4.gif": "/tmang-guide/static/media/wizard-class-3.bd349df4.gif",
+    "static/media/wizard-class-4.7327cf4a.gif": "/tmang-guide/static/media/wizard-class-4.7327cf4a.gif",
+    "static/media/wizard-class-5.0d38b511.gif": "/tmang-guide/static/media/wizard-class-5.0d38b511.gif",
+    "static/media/wizard-class-6.3e81cdc1.gif": "/tmang-guide/static/media/wizard-class-6.3e81cdc1.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.9b0fc025.js",
-    "static/js/2.322bb991.chunk.js",
+    "static/js/2.2a05d1b4.chunk.js",
     "static/css/main.ddf14eb8.chunk.css",
-    "static/js/main.c9b1c3c8.chunk.js"
+    "static/js/main.52e610f4.chunk.js"
   ]
 }
