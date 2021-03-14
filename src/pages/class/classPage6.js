@@ -10,7 +10,9 @@ const classPage6 = () => {
                 <Menu/>
                 <div className={classNames('guide-content')}>
                     <div className='guide-content-max'>
-                        
+                        <div className='guide-content-max'>
+                            
+                        </div>
                     </div>
                 </div>
             </div>
